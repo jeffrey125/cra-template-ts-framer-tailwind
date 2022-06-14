@@ -1,5 +1,7 @@
 # Welcome to cra-template-ts-framer-tailwindcss 👋
 
+> A cra-template that has tailwindcss and framer-motion.
+
 ## Usage
 
 ```sh
@@ -13,8 +15,6 @@ yarn create-react-app my-app --template ts-framer-tailwindcss
 ```
 
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/jeffrey125/cra-template-ts-framer-tailwind)
-
-> A cra-template that has tailwindcss and framer-motion.
 
 ## Features
 
