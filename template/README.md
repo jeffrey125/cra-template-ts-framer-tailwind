@@ -18,14 +18,15 @@ yarn create-react-app my-app --template ts-framer-tailwindcss
 
 ## Features
 
-- uuid
-- framer-motion
-- typescript
-- serve
-- prettier
-- tailwindcss
-- heroicons
-- source-map-explorer
+- [uuid](https://github.com/uuidjs/uuid)
+- [framer-motion](https://www.framer.com/docs/)
+- [typescript](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup/)
+- [serve](https://github.com/vercel/serve)
+- [prettier](https://github.com/prettier/prettier)
+- [tailwindcss](https://tailwindcss.com/docs/installation)
+- [heroicons](https://github.com/tailwindlabs/heroicons)
+- [source-map-explorer](https://github.com/danvk/source-map-explorer)
+- [axios](https://github.com/axios/axios)
 
 ## Available Scripts
 
