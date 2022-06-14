@@ -10,7 +10,8 @@
     "framer-motion",
     "uuid",
     "prettier",
-    "serve"
+    "serve",
+    "axios"
   ],
   "description": "Custom CRA template with tailwindcss and framer-motion",
   "repository": {
