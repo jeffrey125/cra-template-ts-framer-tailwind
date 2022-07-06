@@ -1,4 +1,4 @@
-# Welcome to cra-template-ts-framer-tailwindcss 👋
+# Welcome to cra-template-ts-framer-tailwindcss
 
 > A cra-template that has tailwindcss and framer-motion.
 
